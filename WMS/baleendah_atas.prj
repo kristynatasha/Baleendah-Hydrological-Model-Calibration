@@ -1,0 +1,31 @@
+GSSHAPROJECT
+WMS WMS 10.0.11 (32-bit)
+WATERSHED_MASK           "C:\Users\Nath Yohanes\Downloads\baleendah_atas.msk"
+PROJECT_PATH             "C:\Users\Nath Yohanes\Downloads\"
+#PROJECTION_FILE         "C:\Users\Nath Yohanes\Downloads\baleendah_atas_prj.pro"
+NON_ORTHO_CHANNELS
+FLINE                    "C:\Users\Nath Yohanes\Downloads\baleendah_atas.map"
+METRIC
+GRIDSIZE                 1000.000000
+ROWS                     28
+COLS                     16
+TOT_TIME                 200
+TIMESTEP                 2
+OUTROW                   28
+OUTCOL                   9
+OUTSLOPE                 0.001000
+MAP_FREQ                 30
+HYD_FREQ                 30
+MAP_TYPE                 1
+ELEVATION                "C:\Users\Nath Yohanes\Downloads\baleendah_atas.ele"
+DEPTH                    "C:\Users\Nath Yohanes\Downloads\baleendah_atas.dep"
+OVERTYPE                 ADE
+MAPPING_TABLE            "C:\Users\Nath Yohanes\Downloads\baleendah_atas.cmt"
+SUMMARY                  "C:\Users\Nath Yohanes\Downloads\baleendah_atas.sum"
+OUTLET_HYDRO             "C:\Users\Nath Yohanes\Downloads\baleendah_atas.otl"
+QUIET
+PRECIP_UNIF
+RAIN_INTENSITY           50.000000
+RAIN_DURATION            60
+START_DATE               2019 03 03
+START_TIME               13 00
